@@ -1,0 +1,76 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naftal Rainer</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='../static/css/style.css')}}">
+</head>
+<body>
+    <div class="holder">
+        <nav>
+            <ul>
+                <li><a href="/badges">BADGES</a></li>
+                <li><a href="/projects">PROJECTS</a></li>
+                <li><a href="/">HOME</a></li>
+            </ul>
+        </nav>
+    
+        {% block content %}
+        {% endblock %}
+    
+        
+    
+    
+        <div >
+            <p class="contact"  id="bout">Contact</p>
+        </div>
+    
+    
+        <div class="container" id="home">
+            <header>
+                <p> NAFTAL RAINER </p>
+                <h5 id="close"> X </h5>
+            </header>
+    
+            <div class="about">
+                <form action="/sub" method="POST">
+                    <input type="text" name="names" id="" placeholder="Enter Your Names" required>
+                    <input type="email" name="email" id="" placeholder="Enter Your Email Address" required>
+                    <input type="tel" name="mobile" id="" placeholder="Enter Your Mobile Number" required minlength="10">
+                    <label for="">Reason For Contact</label>
+                    <select name="reason" id="">
+                        <option value="hire">Hire Me</option>
+                        <option value="mentor">Mentorship</option>
+                        <option value="consult">Consultation</option>
+                        <option value="other">Other</option>
+                    </select>
+                    <textarea name="message" id="" cols="20" rows="5">Text Here</textarea>
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+            <br>
+            <div class="social-media">
+                <a href="https://dev.to/seniorcitizen" target="_blank" rel="noopener noreferrer"><img src="../static/images/dev.png" alt="DEV.io"></a>
+                <a href="https://github.com/Naftal-Rainer" target="_blank" rel="noopener noreferrer"><img src="../static/images/github1.png" alt="GitHub"></a>
+                <a href="https://www.linkedin.com/in/naftal-rainer/" target="_blank" rel="noopener noreferrer"><img src="../static/images/linkedin-circled.png" alt="Linked In"></a>
+                <a href="https://twitter.com/N_Rainer" target="_blank" rel="noopener noreferrer"><img src="../static/images/twitter.png" alt="Twitter"></a>
+                <a href="https://www.instagram.com/_nrainer/" target="_blank" rel="noopener noreferrer"><img src="../static/images/instagram-new.png" alt="Instagram"></a>
+
+            </div>
+        </div>
+    
+        <footer>
+            <p>All Rights Reserved</p>
+            <hr>
+            <p>&copy; 2022</p>
+            <hr>
+            <p>Powered by The Grid Inc.</p>
+        </footer>
+    </div>
+
+    <script src=" {{ url_for('static', filename='../static/js/script.js') }}"></script>
+    <script src="../static/script.js"></script>
+
+</body>
+</html>
