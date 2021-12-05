@@ -1,9 +1,7 @@
 # Hi!👋 Meet Rainer 😊
 
-
-	![image](https://user-images.githubusercontent.com/45267087/144765414-cb635258-1cc4-4fe0-ae10-4b544e036079.png)
-
+![Rainer Profile](https://user-images.githubusercontent.com/45267087/144765722-cd3f942c-1833-47f2-a8d2-053cd57df447.png)
   
   An aspiring Software Developer with aimed expertise in Machine Learning and Artificial Intelligence.
   
-  *Brief Description.* More to come when the site is complete.
+  ***Brief Description.*** More to come when the site is complete.
