@@ -1,9 +1,10 @@
 # Hi!👋 Meet Rainer 😊
 
+![Rainer Profile](https://user-images.githubusercontent.com/45267087/165546374-59941615-5029-468a-8bd7-987f4259a09c.gif)
 <!---
 ![Rainer Profile](https://user-images.githubusercontent.com/45267087/144765722-cd3f942c-1833-47f2-a8d2-053cd57df447.png)
 -->
-  
+
   An aspiring Software Developer with aimed expertise in Machine Learning and Artificial Intelligence.
   
  - :paw_prints: A true believer in ***" One-step-at-a-time "***. It always works for me.
