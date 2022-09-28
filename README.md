@@ -47,7 +47,7 @@
  <br/>
   <li>💻 I'm an aspiring Software Developer with aimed expertise in Machine Learning and Artificial Intelligence.</li>
   <li>🔭 Currently working on Intelligent Platforms....</li>
-  <li>:paw_prints: A true believer in ***" One-step-at-a-time "***. It always works for me.</li>
+  <li>:paw_prints: A true believer in **" One-step-at-a-time "**. It always works for me.</li>
   <li>🌱 learning advanced concepts in Data Science..</li>
   <li>📝 I'm also a part time blogger on <a href="https://dev.to/seniorcitizen" target="_blank"><img alt = "Naftal Rainer | dev.to" width="17px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> platform.</a></li>
   <li>👯 I’m open to collaborate on open-source projects.</li>
