@@ -45,7 +45,7 @@
 
  <ul align="left">
  <br/>
-  <li>💻 I'm an aspiring Software Developer with aimed expertise in Machine Learning and Artificial Intelligence.</li>
+  <li>💻 I'm a data scientist with aimed expertise in Machine Learning and Artificial Intelligence.</li>
   <li>🔭 Currently working on Intelligent Platforms....</li>
   <li>:paw_prints: A true believer in __One-step-at-a-time__. It always works for me.</li>
   <li>🌱 learning advanced concepts in Data Science..</li>
